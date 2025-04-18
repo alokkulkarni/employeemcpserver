@@ -1,0 +1,15 @@
+INSERT INTO public.departments (id, name, created_at) VALUES (1, 'Human Resources', '2025-04-07 11:27:30.695235');
+INSERT INTO public.departments (id, name, created_at) VALUES (2, 'Finance', '2025-04-07 11:27:30.695235');
+INSERT INTO public.departments (id, name, created_at) VALUES (3, 'Engineering', '2025-04-07 11:27:30.695235');
+INSERT INTO public.departments (id, name, created_at) VALUES (4, 'Marketing', '2025-04-07 11:27:30.695235');
+INSERT INTO public.departments (id, name, created_at) VALUES (5, 'Sales', '2025-04-07 11:27:30.695235');
+INSERT INTO public.departments (id, name, created_at) VALUES (6, 'HR', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (7, 'IT', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (8, 'Finance', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (9, 'Marketing', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (10, 'Sales', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (11, 'Operations', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (12, 'Customer Service', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (13, 'Legal', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (14, 'Research and Development', '2025-04-07 12:21:58.890535');
+INSERT INTO public.departments (id, name, created_at) VALUES (15, 'Product Management', '2025-04-07 12:21:58.890535');
